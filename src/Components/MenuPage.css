@@ -1,0 +1,20 @@
+.menu-page{
+    background-image: url("https://wallpaperforu.com/wp-content/uploads/2020/08/food-wallpaper-20080219241525.jpg");
+    background-repeat: no-repeat; 
+    background-size: cover; 
+
+}
+.menu-body{
+    max-width: 950px;
+     min-height: 700px;
+    margin: auto ;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.img-wrapper-menupage{
+    width: 100%;
+}
+.img-menu-page{
+    width: 100%;
+}

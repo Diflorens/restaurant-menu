@@ -1,0 +1,60 @@
+.footer-main{
+    width: 100%;
+    margin:0;
+  padding:10px;
+}
+.section{
+    display: flex;
+    justify-content: space-evenly;
+  
+
+
+}
+.footer-additional-info{
+  width: 50%;
+ position: relative;
+ left: 40px;
+}
+.footer-additional-info a{
+  color: black;
+     margin:0;
+    border-right: 1px solid black;
+padding: 5px;
+}
+.footer-additional-info a:last-child{
+    border-right: none;
+}
+i {
+  padding:10px;
+  font-size: 20px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+p{
+     margin:0;
+     padding: 5px;
+
+}
+
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+.fa-instagram {
+  
+  background: rgb(197, 65, 87);
+  color: white;
+}
+.fa-yelp {
+  background: #bb0000;
+  color: white;
+}
+.fa-earlybirds{
+background: #00b489;
+  color: white;
+}

@@ -1,0 +1,13 @@
+#login-form-container{
+    background-color: antiquewhite;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    gap:5px;
+    height:80%;
+    border:1px solid darkgrey;
+    border-radius: 10px;
+}
+#login-form-container button {
+    background-color: pink;
+}

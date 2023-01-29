@@ -1,0 +1,24 @@
+.customer-page-container{
+    width: 100%;
+    margin: 0 auto;
+    background-color: floralwhite;
+    text-align: center;
+      min-height: 700px;
+}
+.footer-main{
+background-color: darksalmon;
+margin: 0;
+padding: 0;
+
+
+}
+.footer{
+padding: 0;
+position: relative;
+left: 100px;
+    width: 70%;
+     display: flex;
+margin: auto;
+    justify-content: space-evenly;
+    
+}

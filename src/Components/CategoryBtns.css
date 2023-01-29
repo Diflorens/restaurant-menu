@@ -1,0 +1,31 @@
+.header-category-btn{
+    width: 70%;
+    display: flex;
+    justify-content: space-around;
+}
+.active-btn-header{
+    width: 100px;
+    padding: 7px;
+    font-size: large;
+    font-weight: bolder;
+    background-color: #fdfdfd;
+    color:orange;
+    border: 1px solid #203833;
+    border-radius: 5px;
+}
+.btn-header{
+    width: 120px;
+    padding: 15px 20px;
+    font-size: large;
+    background-color: #203833;
+    color:white;
+    border: none;
+    border-radius: 5px;
+    box-shadow: inset 0 0 6px white;
+}
+.btn-header:hover{
+    background-color:white;
+    color:#203833;
+    border:1px solid #203833;
+    transition: 1s;
+}

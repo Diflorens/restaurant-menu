@@ -1,0 +1,34 @@
+.container-checkout{
+    display: flex;
+    flex-direction: column;
+    overflow-y: scroll;
+    max-height: 500px;
+}
+.order-info, .payment-details, .delivery-details{
+    border: 1px solid black;
+    padding: 1rem;
+    margin: 5px;
+}
+.total-payment{
+    font-weight: bolder;
+}
+.tips-info{
+    display: flex;
+    align-items: center;
+    font-size: smaller;
+}
+.btn-place-order{
+    width: 100%;
+    padding: 10px 40px;
+    background-color: antiquewhite;
+    font-weight: bold;
+    font-size: large;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.btn-place-order:hover{
+    background-color: grey;
+    color:white;
+    transition: 1s;
+}

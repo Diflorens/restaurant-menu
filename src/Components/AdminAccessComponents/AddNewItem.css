@@ -1,0 +1,16 @@
+.add-item-container button{
+    background-color: #203926;
+    color:white;
+    padding: 1rem;
+    border:none;
+    border-radius: 10px;
+    font-size: large;
+    font-weight: bold;
+
+}
+.add-item-container button:hover{
+    background-color: azure;
+    color:#203926;
+    border: 1px solid #203926;
+    transition: 1s;
+}

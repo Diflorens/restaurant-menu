@@ -1,0 +1,14 @@
+.item-modal-window{
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background-color: rgba(52, 72, 52, 0.512);
+    display: flex; 
+    justify-content: center;
+    align-items:center;
+}
+#addToCartButton-modal{
+    margin: auto;
+}
